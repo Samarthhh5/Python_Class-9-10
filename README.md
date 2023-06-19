@@ -1,7 +1,7 @@
 - 👋 Hi, I am @Samarth Mishra
 - 👀 I’m interested in ...creative stuffss....
 - 🌱 Currently learning ...python and graphic designing
-- 💞️ I’m looking to collaborate on ... and web dev
+- 💞️ I’m looking to collaborate on ...filmmaking and web dev
 
 
 <!---
