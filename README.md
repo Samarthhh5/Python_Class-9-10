@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Samarthhh5
+- 👋 Hi, I am @Samarth Mishra
 - 👀 I’m interested in ...creative stuffss....
-- 🌱 I’m currently learning ...python and graphic designing
-- 💞️ I’m looking to collaborate on ...filmmaking and python
-- 📫 How to reach me ...through dm....
-ig-samarthhhm
+- 🌱 Currently learning ...python and graphic designing
+- 💞️ I’m looking to collaborate on ... and web dev
+
 
 <!---
 Samarthhh5/Samarthhh5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
